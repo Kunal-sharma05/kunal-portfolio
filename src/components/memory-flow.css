@@ -6,3 +6,7 @@
 .detailed-scroll{max-width:100%;max-height:75vh;max-height:75svh;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}
 @media(max-width:600px){.detailed-architecture figcaption{padding:16px;gap:12px}.detailed-architecture>p{padding:14px 16px;font-size:12px}.detailed-scroll{max-height:65vh;max-height:65svh}}
 
+.design-thinking-intro{max-width:800px;font-size:16px;line-height:1.85;color:#6b6257;margin-top:24px}
+.design-thinking-status{max-width:800px;font-size:13px;line-height:1.8;color:#6b6257;margin-top:14px;padding-left:14px;border-left:2px solid #6f7d4e}
+.design-thinking>.detailed-architecture{margin-top:30px;background:#faf9f4}
+@media(max-width:600px){.design-thinking-intro{font-size:15px}.design-thinking-status{font-size:12px}}
