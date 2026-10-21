@@ -1,0 +1,17 @@
+.gitignore
+FILE_TREE.txt
+index.html
+package-lock.json
+package.json
+README.md
+vite.config.js
+.openai\hosting.json
+public\favicon.svg
+public\Kunal_Sharma_Resume.pdf
+public\og-card.svg
+src\App.jsx
+src\main.jsx
+src\styles.module.css
+src\animations\variants.js
+src\components\MemoryArchitecture.jsx
+src\data\portfolio.js
